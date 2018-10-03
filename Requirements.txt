@@ -1,0 +1,2 @@
+ChatterBot 0.8.7
+ChatterBot Corpus (You can download the file here: https://pypi.org/project/chatterbot-corpus/)
